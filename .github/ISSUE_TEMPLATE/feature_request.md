@@ -1,6 +1,3 @@
-
-
-
 ---
 name: 🚀 Feature Request
 about: Suggest a new feature or improvement for the project
