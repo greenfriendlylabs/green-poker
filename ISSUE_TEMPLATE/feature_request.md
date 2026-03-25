@@ -1,3 +1,10 @@
+---
+name: 🚀 Feature Request
+about: Suggest a new feature or improvement for the project
+title: "[Feature]: "
+labels: enhancement
+assignees: ''
+---
 # 🎁 Feature Request – Contributors Wanted! 🧑‍🚀
 
 ## 🎯 What feature would you like to see?
