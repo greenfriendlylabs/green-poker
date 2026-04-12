@@ -1,5 +1,7 @@
 # GreenPoker
 
+![greenpoker](https://github.com/user-attachments/assets/c6a555d8-2cfc-4182-beb1-104a89d01c05)
+
 A fully decentralized **No-Limit Texas Hold'em** poker platform built on the **Terra Classic (LUNC)** blockchain. GreenPoker runs all game logic inside a CosmWasm smart contract - cards are dealt with provably fair cryptography, bets are settled on-chain, and your chips are always in your custody.
 
 ---
